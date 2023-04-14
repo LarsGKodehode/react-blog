@@ -2,8 +2,6 @@ import { Post } from './components/Post'
 import data from './data/data.json'
 
 function App() {
-  // console.log(data)
-
   return (
     <div>
       <ul>
@@ -14,8 +12,6 @@ function App() {
     </div>
   )
 }
-
-
 
 export default App
 
